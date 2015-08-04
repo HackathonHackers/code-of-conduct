@@ -17,7 +17,8 @@ While the rest of this section will go into detail about what is and isn't accep
 * **Do not** post anything racist, sexist, ableist, homophobic, transphobic, or in any other way demeaning toward anyone. No [harassment](#appendix-a-definitions) of any kind. No exceptions.
 * **Do not** make personal attacks or be intentionally rude. When disagreeing, keep your post about the topic. e.g. "That is an idiotic thing to say; 1 + 1 is 2, not 3." can be shortened to "1 + 1 is 2, not 3." and "This post is stupid." can be shortened to nothing at all.
 * **Do not** spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts.
-* **Do not** recruit for your startup, company, job, or organization. Consider posting in HH Job Listings instead.
+* **Do not** recruit for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
+* **Do not** post requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
 * **Do not** post peoples' personal information. This includes (but isn't limited to) private messages from people, home and work addresses, or private phone numbers.
 
 ## Inclusivity Statement
