@@ -131,7 +131,7 @@ Contributions are welcome on how to improve this code of conduct! Send us a pull
 
 ## Moderators
 
-The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger.
+The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger. All questions and concerns will be kept completely confidential. You can also submit [anonymous feedback](http://hh.gd/feedback).
 
 * [Alex Kern](https://www.facebook.com/kernvision)
 * [Evadora de Zhengia](https://www.facebook.com/zhengia)
@@ -143,7 +143,7 @@ The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of vo
 * [Rodney Folz](https://www.facebook.com/folz)
 * [Hallie Lomax](https://www.facebook.com/Wolfrun1)
 
-Each subgroup is run by an indenpedent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
+Each HH subgroup is run by an independent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
 
 ## License & Attribution
 
@@ -174,3 +174,7 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 ## Appendix B: Examples of Moderation
 
 TODO
+
+## Appendix C: Coda
+
+Here’s to the hackers. The tinkerers. The makers. The ones who create things quickly. While some may see them as sleep-deprived loons, we see dedication. Because the students who are crazy enough to think they can make something awesome in just 36 hours, are the ones who do.
