@@ -8,7 +8,11 @@ This document is both an introduction to Hackathon Hackers (HH) and a reference 
 
 Hackathon Hackers is an online space for hackers across the globe to connect and spread the hackathon spirit. Members are aged from middle school to retirement, span across most gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, come join us!
 
-Hackathon Hackers is composed of a number of loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything related to hackathons, however indirectly. Think of it like `#general` on Slack.
+If you're just getting your feet wet in HH, consider introducing yourself in [HH Welcome](http://hh.gd/welcome). :grin:
+
+#### Bird's-eye View
+
+Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything related to hackathons, however indirectly. Think of it like `#general` on Slack.
 
 There are over 50 subgroups of Hackathon Hackers. Each is a topic-based subcommunity focusing on specific technologies, regions, or events. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. The list of official subgroups is located in the sidebar of the main group. You can recognize them by the `HH` prefix in the group's name.
 
@@ -134,14 +138,14 @@ Contributions are welcome on how to improve this code of conduct! Send us a pull
 The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger. All questions and concerns will be kept completely confidential. You can also submit [anonymous feedback](http://hh.gd/feedback).
 
 * [Alex Kern](https://www.facebook.com/kernvision)
-* [Evadora de Zhengia](https://www.facebook.com/zhengia)
-* [JB Rubinovitz](https://www.facebook.com/jbr1992)
-* [Dave Fontenot](https://www.facebook.com/davefontenot)
-* [Cassidy Williams](https://www.facebook.com/superandomness)
-* [Austin Feight](https://www.facebook.com/afeight)
 * [Ari Vaniderstine](https://www.facebook.com/itsariari)
-* [Rodney Folz](https://www.facebook.com/folz)
+* [Austin Feight](https://www.facebook.com/afeight)
+* [Cassidy Williams](https://www.facebook.com/superandomness)
+* [Dave Fontenot](https://www.facebook.com/davefontenot)
+* [Evadora de Zhengia](https://www.facebook.com/zhengia)
 * [Hallie Lomax](https://www.facebook.com/Wolfrun1)
+* [JB Rubinovitz](https://www.facebook.com/jbr1992)
+* [Rodney Folz](https://www.facebook.com/folz)
 
 Each HH subgroup is run by an independent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
 
@@ -173,7 +177,7 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 
 ## Appendix B: Examples of Moderation
 
-TODO
+> Coming soon...
 
 ## Appendix C: Coda
 
