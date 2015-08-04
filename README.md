@@ -174,7 +174,7 @@ Anyone can start an HH subgroup. To begin, create a Facebook group whose name be
 
 Any topic for a subgroup is acceptable as long as it provides value to the HH community. Many subgroups overlap with each other, so do not be afraid to submit applications for groups which might appear to be redundant.
 
-**Subgroups must satisfy one of these requirements:**
+##### Subgroups must satisfy one of these requirements:
 
 * 1 week old, 5 posts, and 250 members
 * 3 weeks old, 10 posts, and 100 members
