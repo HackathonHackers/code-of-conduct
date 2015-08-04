@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/HackathonHackers/code-of-conduct/master/ico.png" alt="Ico" style="vertical-align: middle; height: 32px" /> code-of-conduct
+# code-of-conduct
 
 Welcome to [Hackathon Hackers](http://hh.gd)! This group is of, by, and for people who love hackathons—whether you attend hackathons, run them, critique them and the industrial-capitalist system that manifests itself around them, or just love to hack, this group is for you. We're glad you're here.
 
@@ -17,6 +17,18 @@ While the rest of this section will go into detail about what is and isn't accep
 * TODO: Fill in the rest of the rules from the etiquette document.
 
 ## FAQs
+
+* What should I do if I see someone violating the Code of Conduct?
+
+There's an option to report a thread if you click on the arrow in its top right hand corner. Then a mod will look into it and take action.
+
+* Why is this moderator ignoring me?
+
+Moderators are volunteers with busy lives outside of HH. They will usually reply to you very promptly or connect you with someone who can, but if a moderator is taking longer to get back to you than you would like, please be patient. 
+
+* What if I disagree with the moderator who reached out to me?
+
+Feel free to reach out to other moderators, but all mods use the same CoC so I would not expect different results.
 
 ### Can I contribute and improve this code of conduct?
 
