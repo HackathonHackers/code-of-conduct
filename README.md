@@ -26,7 +26,7 @@ Presently these are:
 * /slow - only one post per minute per user on the thread is allowed.
 * /ama $AMA-er - this is our way of hosting Ask Me Anything's. Only the person doing the AMA can post on that thread and then we have a separate thread for questions. This keeps the AMA answers tidy.
 
-We are looking on expanding these in the future.
+We are looking to expand on these in the future.
 
 ## FAQs
 
