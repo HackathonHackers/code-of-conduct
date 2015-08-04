@@ -16,6 +16,18 @@ While the rest of this section will go into detail about what is and isn't accep
 
 * TODO: Fill in the rest of the rules from the etiquette document.
 
+## Laws of Robotics
+
+There are certain commands moderators can enter as comments in order to manage threads.
+
+Presently these are:
+
+* /thread - this is our way of locking threads. From there on out, only moderators can post.
+* /slow - only one post per minute per user on the thread is allowed.
+* /ama $AMA-er - this is our way of hosting Ask Me Anything's. Only the person doing the AMA can post on that thread and then we have a separate thread for questions. This keeps the AMA answers tidy.
+
+We are looking on expanding these in the future.
+
 ## FAQs
 
 > What should I do if I see someone violating the Code of Conduct?
