@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/HackathonHackers/code-of-conduct/master/ico.png" alt="Ico" height="32" /> code-of-conduct
+# <img src="https://raw.githubusercontent.com/HackathonHackers/code-of-conduct/master/ico.png" alt="Ico" style="vertical-align: middle; height: 32px" /> code-of-conduct
 
 Welcome to [Hackathon Hackers](http://hh.gd)! This group is of, by, and for people who love hackathons—whether you attend hackathons, run them, critique them and the industrial-capitalist system that manifests itself around them, or just love to hack, this group is for you. We're glad you're here.
 
