@@ -39,7 +39,13 @@ Hackathon Hackers is a community. Whenever you post or reply, there are other pe
 
 These guidelines are just that: guidelines. They're not all-encompassing but they're here to show what kind of behavior and mindset we expect from HH'ers.
 
-#### #1: People are complex, and so are ideas.
+#### #1: Safety comes first.
+
+* For safety reasons, personal information such as phone numbers and emails should not be exchanged publicly. If you wish to exchange information with another member of the group, it should be done privately outside of the group.
+* Similarly, don’t post the personal information of other people.
+* Some of us have become great friends because of this group, but safety is always a good idea when meeting people from the Internet. Group gatherings and meet-ups should always be in public places, preferably during daylight hours and accessible by public transit. If you create an event for the group, it must not be in someone’s home.
+
+#### #2: People are complex, and so are ideas.
 
 * There is no True Hacker. That is, a person who doesn’t use Firefox, doesn’t like vim, loves Windows, studies the liberal arts, or has never written a line of code in their life is every bit as much a hackathon hacker as anyone else. The only requirement for being a hacker is curiosity.
 * We’re a very enthusiastic bunch, and sometimes we just want to share our excitement (or rant) about something without fearing a conflict, so don’t derail or instigate an argument on someone else’s post if they haven’t expressed their willingness to debate. If you want, you can make your own post and invite input from everyone without infringing on someone else’s space.
@@ -50,25 +56,19 @@ These guidelines are just that: guidelines. They're not all-encompassing but the
 * If you find yourself unable or not wanting to discuss a topic further, you are always allowed to recuse yourself from the situation. If you feel uncomfortable or overwhelmed with responses and want to just walk away, just leave a comment saying so. If someone else has recused themselves, respect their decision and don’t tag them in your comments or pressure them to respond. (However, the decision to delete or end a thread entirely is up to the thread’s creator or the moderators.)
 * As a general discussion rule: when you can, please do take the time to educate your fellow hackers, for the betterment of the community. Getting extremely offended over every trivial thing, passive-aggressive sniping, and general unpleasantness is unwelcome; thoughtful, productive discussion is welcome entirely.
 
-#### #2: Be as involved as you want to be.
+#### #3: Be as involved as you want to be.
 
 * This group has thousands of members. This means some are more vocal than others, and new members or quieter members often feel left out. “Lurking” is a totally valid way to belong, and attending gatherings is never required, but know that your participation is one hundred percent welcome, anytime.
 * A good way to get involved is to start a thread about something you’re interested in. Chances are, with this many people in the group, someone else is bound to be excited to talk about your favorite library/program/website/language. Jump in!
 * Advertising your personal projects is totally allowed, as long as it’s not of a spam-like nature. For example, posting an app or website you made, a club you’re involved with, or a cause you’re fighting for is awesome, creative, and exciting. Bumping it constantly or reposting it daily is inappropriate. If you want to give people work-in-progress updates, check out [HH What Are You Working On?](http://hh.gd/waywo)
 
-#### #3: Keep it cooperative.
+#### #4: Keep it cooperative.
 
 * Avoid excessive vulgarity and insults.
 * Be open and encouraging. Inside jokes and knee-jerk responses (“LOL PHP”) can be fun in our personal lives, but in large groups, they tend to just leave people out or make them feel bad.
 When you post, look for ways to empower the disempowered, break down stereotypes, and otherwise encourage everyone in the Hackathon Hackers community to enjoy hackathons and hacker culture.
 * [Include everyone.](#inclusivity-statement) For example, ask about the most influential leaders in tech instead of the most influential guys in tech.
 * If you must criticize, keep it constructive. It is far, far easier to tear something down than to build something up, and this is a community all about building. We should encourage people to create as much as possible.
-
-#### #4: Safety comes first.
-
-* For safety reasons, personal information such as phone numbers and emails should not be exchanged publicly. If you wish to exchange information with another member of the group, it should be done privately outside of the group.
-* Similarly, don’t post the personal information of other people.
-* Some of us have become great friends because of this group, but safety is always a good idea when meeting people from the Internet. Group gatherings and meet-ups should always be in public places, preferably during daylight hours and accessible by public transit. If you create an event for the group, it must not be in someone’s home.
 
 #### #5: Disagreements are private affairs.
 
