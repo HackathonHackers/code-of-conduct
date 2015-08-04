@@ -6,7 +6,7 @@ This document is both an introduction to Hackathon Hackers (HH) and a reference 
 
 ## About Hackathon Hackers
 
-Hackathon Hackers is an online space for hackers across the globe to connect and spread the hackathon spirit. Members are aged from middle school to retirement, span across most gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, [come join us](http://hh.gd)!
+Hackathon Hackers is an online space for hackers across the globe to connect and spread the hackathon spirit. Members are aged from middle school to retirement, span across most gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, come join us!
 
 Hackathon Hackers is composed of a number of loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything related to hackathons, however indirectly. Think of it like `#general` on Slack.
 
@@ -170,3 +170,7 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 * Continued one-on-one communication after requests to cease
 * Deliberate "outing" of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
 * Publication of non-harassing private communication
+
+## Appendix B: Examples of Moderation
+
+TODO
