@@ -8,14 +8,6 @@ This document is both an introduction to Hackathon Hackers (HH) and a reference 
 
 Hackathon Hackers is an online space for hackers across the globe to connect and spread the hackathon spirit. Members are aged from middle school to retirement, span across most gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, [come join us](http://hh.gd)!
 
-## Rules and Guidelines
-
-Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
-
-While the rest of this section will go into detail about what is and isn't acceptable, our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
-
-* TODO: Fill in the rest of the rules from the etiquette document.
-
 ## Laws of Robotics
 
 There are certain commands moderators can enter as comments in order to manage threads.
@@ -27,6 +19,14 @@ Presently these are:
 * /ama $AMA-er - this is our way of hosting Ask Me Anything's. Only the person doing the AMA can post on that thread and then we have a separate thread for questions. This keeps the AMA answers tidy.
 
 We are looking to expand on these in the future.
+
+## Rules and Guidelines
+
+Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
+
+While the rest of this section will go into detail about what is and isn't acceptable, our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
+
+* TODO: Fill in the rest of the rules from the etiquette document.
 
 ## FAQs
 
@@ -52,7 +52,19 @@ Contributions are welcome on how to improve this code of conduct! Send us a pull
 
 ## Moderators
 
-* TODO
+The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger.
+
+* [Alex Kern](https://www.facebook.com/kernvision)
+* [Evadora de Zhengia](https://www.facebook.com/zhengia)
+* [Jennifer Rubinovitz](https://www.facebook.com/jbr1992)
+* [Dave Fontenot](https://www.facebook.com/davefontenot)
+* [Cassidy Williams](https://www.facebook.com/superandomness)
+* [Austin Feight](https://www.facebook.com/afeight)
+* [Ari Vaniderstine](https://www.facebook.com/itsariari)
+* [Rodney Folz](https://www.facebook.com/folz)
+* [Hallie Lomax](https://www.facebook.com/Wolfrun1)
+
+Each subgroup is run by an indenpedent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's administrators first.
 
 ## Attribution & Acknowledgements
 
