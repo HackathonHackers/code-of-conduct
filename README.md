@@ -98,10 +98,6 @@ The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of vo
 
 Each subgroup is run by an indenpedent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
 
-## Attribution & Acknowledgements
+## License & Attribution
 
-This Code of Conduct is inspired by the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/), which is licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
-
-## License
-
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). It is heavily inspired by the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/), which itself is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
