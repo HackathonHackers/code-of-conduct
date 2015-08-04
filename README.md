@@ -10,15 +10,13 @@ Hackathon Hackers is an online space for hackers across the globe to connect and
 
 ## Laws of Robotics
 
-There are certain commands moderators can enter as comments in order to manage threads.
+There are certain commands moderators can enter as comments to manage threads. Presently these include:
 
-Presently these are:
+* `/thread` — This is our way of locking threads. From there on out, only moderators can post.
+* `/slow` — Only one post per minute per user on the thread is allowed.
+* `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
 
-* /thread - this is our way of locking threads. From there on out, only moderators can post.
-* /slow - only one post per minute per user on the thread is allowed.
-* /ama $AMA-er - this is our way of hosting Ask Me Anything's. Only the person doing the AMA can post on that thread and then we have a separate thread for questions. This keeps the AMA answers tidy.
-
-We are looking to expand on these in the future.
+These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future.
 
 ## Rules and Guidelines
 
