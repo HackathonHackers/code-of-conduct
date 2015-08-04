@@ -14,6 +14,10 @@ Hackers are diverse and complex, with many different interests and passions. The
 
 While the rest of this section will go into detail about what is and isn't acceptable, our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
 
+### Da Rules
+
+These are hard-and-fast rules, and the only rules starting with "do not." Please follow them. Breaking any of these will result in your post being removed, a moderator contacting you, and you may potentially be removed from HH.
+
 * **Do not** post anything racist, sexist, ableist, homophobic, transphobic, or in any other way demeaning toward anyone. No [harassment](#appendix-a-definitions) of any kind. No exceptions.
 * **Do not** make personal attacks or be intentionally rude. When disagreeing, keep your post about the topic. e.g. "That is an idiotic thing to say; 1 + 1 is 2, not 3." can be shortened to "1 + 1 is 2, not 3." and "This post is stupid." can be shortened to nothing at all.
 * **Do not** spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts.
