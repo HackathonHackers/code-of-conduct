@@ -16,16 +16,6 @@ While the rest of this section will go into detail about what is and isn't accep
 
 * TODO: Fill in the rest of the rules from the etiquette document.
 
-## Laws of Robotics
-
-There are certain commands moderators can enter as comments to manage threads. Presently these include:
-
-* `/thread` — This is our way of locking threads. From there on out, only moderators can post.
-* `/slow` — Only one post per minute per user on the thread is allowed.
-* `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
-
-These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future.
-
 ## Inclusivity Statement
 
 We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.
@@ -39,6 +29,16 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 * Refusal to explain or debate social justice concepts
 * Communicating in a 'tone' you don’t find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
+## Laws of Robotics
+
+There are certain commands moderators can enter as comments to manage threads. Presently these include:
+
+* `/thread` — This is our way of locking threads. From there on out, only moderators can post.
+* `/slow` — Only one post per minute per user on the thread is allowed.
+* `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
+
+These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future.
 
 ## FAQs
 
