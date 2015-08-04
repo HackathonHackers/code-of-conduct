@@ -14,18 +14,7 @@ If you're just getting your feet wet in HH, consider introducing yourself in [HH
 
 Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything related to hackathons, however indirectly. Think of it like `#general` on Slack.
 
-There are over 50 subgroups of Hackathon Hackers. Each is a topic-based subcommunity focusing on specific technologies, regions, or events. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. The list of official subgroups is located in the sidebar of the main group. You can recognize them by the `HH` prefix in the group's name.
-
-#### Starting a Subgroup
-
-Anyone can start an HH subgroup. To begin, create a Facebook group whose name begins with `HH`, add a description/cover photo, and invite your friends. Once you've satisfied one of the prerequisites below, complete the [subgroup application form](http://hh.gd/subapp). A [moderator](#moderators) will review it within a few days. If your subgroup is made official, its name and short URL will be added to the main group's sidebar.
-
-Any topic for a subgroup is acceptable as long as it provides value to the HH community. Many subgroups overlap with each other, so do not be afraid to submit applications for groups which might appear to be redundant.
-
-**Subgroups must satisfy one of these requirements:**
-
-* 1 week old, 5 posts, and 250 members
-* 3 weeks old, 10 posts, and 100 members
+There are over 50 subgroups of Hackathon Hackers. Each is a topic-based subcommunity focusing on specific technologies, regions, or events. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. The list of official subgroups is located in the sidebar of the main group. You can recognize them by the `HH` prefix in the group's name. If you feel there is an unaddressed need in the community, [start the subgroup for it](#appendix-c-starting-a-subgroup).
 
 ## Rules and Guidelines
 
@@ -179,6 +168,25 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 
 > Coming soon...
 
-## Appendix C: Coda
+## Appendix C: Starting a Subgroup
+
+Anyone can start an HH subgroup. To begin, create a Facebook group whose name begins with `HH`, add a description/cover photo, and invite your friends. Once you've satisfied one of the prerequisites below, complete the [subgroup application form](http://hh.gd/subapp). A [moderator](#moderators) will review it within a few days. If your subgroup is made official, its name and short URL will be added to the main group's sidebar.
+
+Any topic for a subgroup is acceptable as long as it provides value to the HH community. Many subgroups overlap with each other, so do not be afraid to submit applications for groups which might appear to be redundant.
+
+**Subgroups must satisfy one of these requirements:**
+
+* 1 week old, 5 posts, and 250 members
+* 3 weeks old, 10 posts, and 100 members
+
+##### Tips for creating subgroups
+
+* Choose a short, descriptive name and a good cover photo.
+* Invite your friends who are interested in the subgroup's topic. Ask them to post or comment in the group.
+* Seed the subgroup with quality content so others know what to post.
+* Make sure there is a diversity of posters early on. Subgroups are communities, not one-person-shows.
+* Don't be afraid to fail or have your subgroup's topic overlap with other subgroups.
+
+## Appendix D: Coda
 
 Here’s to the hackers. The tinkerers. The makers. The ones who create things quickly. While some may see them as sleep-deprived loons, we see dedication. Because the students who are crazy enough to think they can make something awesome in just 36 hours, are the ones who do.
