@@ -88,7 +88,7 @@ The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of vo
 
 * [Alex Kern](https://www.facebook.com/kernvision)
 * [Evadora de Zhengia](https://www.facebook.com/zhengia)
-* [Jennifer Rubinovitz](https://www.facebook.com/jbr1992)
+* [JB Rubinovitz](https://www.facebook.com/jbr1992)
 * [Dave Fontenot](https://www.facebook.com/davefontenot)
 * [Cassidy Williams](https://www.facebook.com/superandomness)
 * [Austin Feight](https://www.facebook.com/afeight)
