@@ -64,7 +64,7 @@ The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of vo
 * [Rodney Folz](https://www.facebook.com/folz)
 * [Hallie Lomax](https://www.facebook.com/Wolfrun1)
 
-Each subgroup is run by an indenpedent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's administrators first.
+Each subgroup is run by an indenpedent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
 
 ## Attribution & Acknowledgements
 
