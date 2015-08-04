@@ -8,6 +8,21 @@ This document is both an introduction to Hackathon Hackers (HH) and a reference 
 
 Hackathon Hackers is an online space for hackers across the globe to connect and spread the hackathon spirit. Members are aged from middle school to retirement, span across most gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, [come join us](http://hh.gd)!
 
+Hackathon Hackers is composed of a number of loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything related to hackathons, however indirectly. Think of it like `#general` on Slack.
+
+There are over 50 subgroups of Hackathon Hackers. Each is a topic-based subcommunity focusing on specific technologies, regions, or events. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. The list of official subgroups is located in the sidebar of the main group. You can recognize them by the `HH` prefix in the group's name.
+
+#### Starting a Subgroup
+
+Anyone can start an HH subgroup. To begin, create a Facebook group whose name begins with `HH`, add a description/cover photo, and invite your friends. Once you've satisfied one of the prerequisites below, complete the [subgroup application form](http://hh.gd/subapp). A [moderator](#moderators) will review it within a few days. If your subgroup is made official, its name and short URL will be added to the main group's sidebar.
+
+Any topic for a subgroup is acceptable as long as it provides value to the HH community. Many subgroups overlap with each other, so do not be afraid to submit applications for groups which might appear to be redundant.
+
+**Subgroups must satisfy one of these requirements:**
+
+* 1 week old, 5 posts, and 250 members
+* 3 weeks old, 10 posts, and 100 members
+
 ## Rules and Guidelines
 
 Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
