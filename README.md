@@ -14,7 +14,11 @@ Hackers are diverse and complex, with many different interests and passions. The
 
 While the rest of this section will go into detail about what is and isn't acceptable, our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
 
-* TODO: Fill in the rest of the rules from the etiquette document.
+* **Do not** post anything racist, sexist, ableist, homophobic, transphobic, or in any other way demeaning toward anyone. No [harassment](#appendix-a-definitions) of any kind. No exceptions.
+* **Do not** make personal attacks or be intentionally rude. When disagreeing, keep your post about the topic. e.g. "That is an idiotic thing to say; 1 + 1 is 2, not 3." can be shortened to "1 + 1 is 2, not 3." and "This post is stupid." can be shortened to nothing at all.
+* **Do not** spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts.
+* **Do not** recruit for your startup, company, job, or organization. Consider posting in HH Job Listings instead.
+* **Do not** post peoples' personal information. This includes (but isn't limited to) private messages from people, home and work addresses, or private phone numbers.
 
 ## Inclusivity Statement
 
@@ -91,7 +95,7 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
 * Deliberate misgendering. This includes deadnaming or persistently using a pronoun that does not correctly reflect a person’s gender identity. You must address people by the name they give you when not addressing them by their username or handle
-* Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop
+* Physical contact and simulated physical contact (eg, textual descriptions like "hug" or "backrub") without consent or after a request to stop
 * Threats of violence, both physical and psychological
 * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
 * Deliberate intimidation
@@ -101,5 +105,5 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 * Unwelcome sexual attention, including gratuitous or off-topic sexual images or behaviour
 * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 * Continued one-on-one communication after requests to cease
-* Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
+* Deliberate "outing" of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
 * Publication of non-harassing private communication
