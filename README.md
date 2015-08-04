@@ -78,7 +78,7 @@ Feel free to reach out to other moderators, but all mods use the same CoC so I w
 
 Contributions are welcome on how to improve this code of conduct! Send us a pull request with your suggestions.
 
-> Doesn't this impact the right to free speech? Why are you stomping on my rights?
+> Doesn't this impact the right to free speech?
 
 [Nope.](https://imgs.xkcd.com/comics/free_speech.png)
 
