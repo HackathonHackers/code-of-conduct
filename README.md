@@ -18,25 +18,29 @@ While the rest of this section will go into detail about what is and isn't accep
 
 ## FAQs
 
-* What should I do if I see someone violating the Code of Conduct?
+> What should I do if I see someone violating the Code of Conduct?
 
-There's an option to report a thread if you click on the arrow in its top right hand corner. Then a mod will look into it and take action.
+There's an option to report a thread if you click on the arrow in its top right hand corner. Then, a mod will look into it and take action. If the problem isn't specific to a thread, reach out to one of the [HH moderators](#moderators) directly.
 
-* Why is this moderator ignoring me?
+> Why is this moderator ignoring me?
 
 Moderators are volunteers with busy lives outside of HH. They will usually reply to you very promptly or connect you with someone who can, but if a moderator is taking longer to get back to you than you would like, please be patient. 
 
-* What if I disagree with the moderator who reached out to me?
+> What if I disagree with the moderator who reached out to me?
 
 Feel free to reach out to other moderators, but all mods use the same CoC so I would not expect different results.
 
-### Can I contribute and improve this code of conduct?
+> Can I contribute and improve this code of conduct?
 
 Contributions are welcome on how to improve this code of conduct! Send us a pull request with your suggestions.
 
-### Doesn't this impact the right to free speech? Why are you stomping on my rights?
+> Doesn't this impact the right to free speech? Why are you stomping on my rights?
 
 [Nope.](https://imgs.xkcd.com/comics/free_speech.png)
+
+## Moderators
+
+* TODO
 
 ## Attribution & Acknowledgements
 
