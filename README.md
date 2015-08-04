@@ -8,6 +8,14 @@ This document is both an introduction to Hackathon Hackers (HH) and a reference 
 
 Hackathon Hackers is an online space for hackers across the globe to connect and spread the hackathon spirit. Members are aged from middle school to retirement, span across most gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, [come join us](http://hh.gd)!
 
+## Rules and Guidelines
+
+Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
+
+While the rest of this section will go into detail about what is and isn't acceptable, our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
+
+* TODO: Fill in the rest of the rules from the etiquette document.
+
 ## Laws of Robotics
 
 There are certain commands moderators can enter as comments to manage threads. Presently these include:
@@ -17,14 +25,6 @@ There are certain commands moderators can enter as comments to manage threads. P
 * `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
 
 These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future.
-
-## Rules and Guidelines
-
-Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
-
-While the rest of this section will go into detail about what is and isn't acceptable, our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
-
-* TODO: Fill in the rest of the rules from the etiquette document.
 
 ## FAQs
 
