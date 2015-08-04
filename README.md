@@ -25,6 +25,18 @@ These are hard-and-fast rules, and the only rules starting with "do not." Please
 * **Do not** post requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
 * **Do not** post peoples' personal information. This includes (but isn't limited to) private messages from people, home and work addresses, or private phone numbers.
 
+### Guidelines
+
+Hackathon Hackers is a community. Whenever you post or reply, there are other people sitting behind the screen reading what you say. These other people have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll probably end up meeting a lot of them if you go to hackathons. Everyone in this group is a potential new friend—treat them that way.
+
+These guidelines are just that: guidelines. They're not all-encompassing but they're here to show what kind of behavior and mindset we expect from HH'ers.
+
+1. People are complex, and so are ideas.
+2. Be as involved as you want to be.
+3. Keep it cooperative.
+4. Safety guidelines.
+5. Disagreements are private affairs.
+
 ## Inclusivity Statement
 
 **Hackathon Hackers is the all-inclusive hackathons group.**
@@ -91,7 +103,7 @@ Each subgroup is run by an indenpedent team of moderators. If your question conc
 
 ## License & Attribution
 
-This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). It is heavily inspired by the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/), which itself is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). It is heavily inspired by the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/), which itself is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Most of the [guidelines](#guidelines) are taken from Nerdfighters of the Greater DC Area, with others borrowed from Hacker News, and Hackers@Berkeley. We're standing on the shoulders of giants.
 
 ---
 
