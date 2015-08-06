@@ -41,7 +41,7 @@ We encourage everyone to participate and are committed to building a community f
 
 Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
-**Our community prioritizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:**
+**Our community prioritizes marginalized people's safety over privileged people's comfort. We do not accept complaints about:**
 
 * 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
 * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you"
