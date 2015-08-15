@@ -43,13 +43,16 @@ We encourage everyone to participate and are committed to building a community f
 
 Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
-**Our community prioritizes marginalized people's safety over privileged people's comfort. We do not accept complaints about:**
+**Our community prioritizes marginalized people's safe existence in the community. We do not accept posts about:**
 
 * 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
 * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you"
 * Refusal to explain or debate social justice concepts
 * Communicating in a 'tone' you don’t find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
+
+However, if you have a post in one of the above categories feel free to message a [moderator](#moderators) to discuss it. We've have posts in the past that fell into the above no's, but could be constructive discussions with some reframing. Talking about hard problems is itself, hard. We think highly of our community members and want them to thrive in our community and at large.
 
 ## Incident Reporting
 
