@@ -52,7 +52,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 
-However, if you have a post in one of the above categories feel free to message a [moderator](#moderators) to discuss it. We've have posts in the past that fell into the above no's, but could be constructive discussions with some reframing. Talking about hard problems is itself, hard. We think highly of our community members and want them to thrive in our community and at large.
+However, if you have a post in one of the above categories feel free to message a [moderator](#moderators) to discuss it. We've have posts in the past that fell into the above no's, but could be constructive discussions with some reframing. Talking about hard problems is itself, hard.
 
 ## Incident Reporting
 
