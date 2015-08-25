@@ -52,7 +52,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 
-However, if you have a post in one of the above categories that you feel strongly belongs in HH, you can message a [moderator](#moderators) to discuss it. We've have posts in the past that fell into the above no's, but could be constructive discussions with some reframing. Talking about hard problems is itself, hard.
+However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
 ## Incident Reporting
 
