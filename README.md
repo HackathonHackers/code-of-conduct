@@ -160,3 +160,7 @@ Any topic for a subgroup is acceptable as long as it provides value to the HH co
 ## Appendix D: Coda
 
 Here’s to the hackers. The tinkerers. The makers. The ones who create things quickly. While some may see them as sleep-deprived loons, we see dedication. Because the students who are crazy enough to think they can make something awesome in just 36 hours, are the ones who do.
+
+# License
+
+This code of conduct is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). In short, this code of conduct could be used and remixed as long as the original is properly cited. See a summary of the license here: (https://creativecommons.org/licenses/by/4.0/).
