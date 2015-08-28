@@ -163,4 +163,4 @@ Here’s to the hackers. The tinkerers. The makers. The ones who create things q
 
 # License
 
-This code of conduct is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). In short, this code of conduct could be used and remixed as long as the original is properly cited. See a summary of the license here: (https://creativecommons.org/licenses/by/4.0/).
+This code of conduct is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). In short, this code of conduct could be used and remixed as long as the original is properly cited. See a summary of the license [here] (https://creativecommons.org/licenses/by/4.0/).
