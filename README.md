@@ -2,7 +2,7 @@
 
 Welcome to [Hackathon Hackers](http://hh.gd)! This group is of, by, and for the amazing, still growing, community of hackers hackathons have built. We're glad you're here.
 
-If you want to recruit us, [please post here](hh.gd/jobs). If you post job listings anywhere else, we will ban you forever.
+If you want to recruit us, [please post here](http://hh.gd/jobs). If you post job listings anywhere else, we will ban you forever.
 
 Hackathon Hackers (HH) is a community. Whenever you post or reply, there are other people sitting behind the screen reading what you say. These other people have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll probably end up meeting a lot of them if you go to hackathons. Everyone in this group is a potential new friend—treat them that way.
 
