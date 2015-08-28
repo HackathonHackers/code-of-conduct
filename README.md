@@ -45,11 +45,12 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 **Our community prioritizes marginalized people's safe existence in the community. We do not accept posts about:**
 
-* ['Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'](http://queergiftedblack.blogspot.com/2012/01/why-reverse-isms-dont-exist.html)
+* 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
 * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you"
 * Refusal to explain or debate social justice concepts
 * Communicating in a 'tone' you don’t find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
 
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
@@ -63,7 +64,7 @@ We also have a confidential form on the sidebar if you're rather your incident n
 
 There are certain commands moderators can enter as comments to manage threads. Presently these include:
 
-* `/close` — This is our way of locking threads. From there on out, only moderators can post.
+* `/thread` — This is our way of locking threads. From there on out, only moderators can post.
 * `/slow` — Only one post per minute per user on the thread is allowed.
 * `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
 
