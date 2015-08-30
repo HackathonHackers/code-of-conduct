@@ -49,7 +49,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you"
 * Refusal to explain or debate social justice concepts
 * Communicating in a 'tone' you don’t find congenial
-* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+* Silencing discussion of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions (though these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit those guidelines)
 
 
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
