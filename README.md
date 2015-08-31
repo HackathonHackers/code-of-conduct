@@ -81,7 +81,7 @@ Contributions are welcome on how to improve this code of conduct! Send us a pull
 
 > Doesn't this impact the right to free speech?
 
-[Nope.](https://imgs.xkcd.com/comics/free_speech.png)
+[Nope.](https://xkcd.com/1357/)
 
 ## Moderators
 
