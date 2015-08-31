@@ -59,15 +59,7 @@ Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Group
 
 There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. You can recognize them by the `HH` prefix in the group's name. Can't find the subgroup you're looking for or don't like what you find? [Start your own subgroup today!](#appendix-c-starting-a-subgroup).
 
-### Laws of Robotics
 
-There are certain commands moderators can enter as comments to manage threads. Presently these include:
-
-* `/close` — This is our way of locking threads. From there on out, only moderators can post.
-* `/slow` — Only one post per minute per user on the thread is allowed.
-* `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
-
-These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future. Please contribute.
 
 ## FAQs
 
@@ -156,6 +148,16 @@ Any topic for a subgroup is acceptable as long as it provides value to the HH co
 * Make sure there is a diversity of posters early on. Subgroups are communities, not one-person-shows.
 * Don't be afraid to fail or have your subgroup's topic overlap with other subgroups.
 
-## Appendix D: Coda
+## Appendix D: Hackbot
+
+There are certain commands moderators can enter as comments to manage threads. Presently these include:
+
+* `/close` — This is our way of locking threads. From there on out, only moderators can post.
+* `/slow` — Only one post per minute per user on the thread is allowed.
+* `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
+
+These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future. Please contribute.
+
+## Appendix E: Coda
 
 Here’s to the hackers. The tinkerers. The makers. The ones who create things quickly. While some may see them as sleep-deprived loons, we see dedication. Because the students who are crazy enough to think they can make something awesome in just 36 hours, are the ones who do.
