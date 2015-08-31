@@ -23,7 +23,7 @@ These are the rules/the things this space is not for. We tried to keep them shor
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
 * No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
 
-## Inclusivity Statement
+### Inclusivity Statement
 
 **Hackathon Hackers is the all-inclusive hackathons group.**
 
@@ -41,7 +41,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
-## Incident Reporting
+### Incident Reporting
 
 If you have an issue with a member or [moderator](#moderators) please take it up with the moderators privately via Facebook message to avoid people ganging up or taking sides in an argument in which they are not directly involved. It’s best to contact the moderators on Facebook via private group message so we can discuss the issue with you. We promise that everything will be confidential and we won’t get mad at you if you have a complaint.
 
