@@ -45,7 +45,6 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 **Our community prioritizes marginalized people's safe existence in the community. We do not accept posts about:**
 
-* 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
 * Disagreements regarding reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you"
 * Refusal to explain or debate social justice concepts
 * Communicating in a 'tone' you don’t find congenial
