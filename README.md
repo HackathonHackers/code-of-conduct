@@ -12,8 +12,8 @@ This document aims to make HH a place for everyone to feel welcome. The rules, g
 
 Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please [send a pull request](https://help.github.com/articles/using-pull-requests/) to start the discussion.
 
-
 Our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
+
 ### Da Rules
 
 These are the rules/the things this space is not for. We tried to keep them short, with more indepth explanations in the appendix. Breaking any of these will result in your prompt removal from HH.
@@ -22,18 +22,6 @@ These are the rules/the things this space is not for. We tried to keep them shor
 * No spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts.
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
 * No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
-
-## About Hackathon Hackers
-
-Hackathon Hackers is a space where people learn together. 
-
-Members are aged from middle school to retirement, span across gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, come join us!
-
-#### Bird's-eye View
-
-Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything hackers care about. Think of it more as 'HH General' or  `#general` on Slack.
-
-There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. You can recognize them by the `HH` prefix in the group's name. Can't find the subgroup you're looking for or don't like what you find? [Start your own subgroup today!](#appendix-c-starting-a-subgroup).
 
 ## Inclusivity Statement
 
@@ -51,7 +39,6 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 * Communicating in a 'tone' you don’t find congenial
 * Silencing discussion of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions (though these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit those guidelines)
 
-
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
 ## Incident Reporting
@@ -59,6 +46,18 @@ However, if you have a post that falls in the above categories yet you feel stil
 If you have an issue with a member or [moderator](#moderators) please take it up with the moderators privately via Facebook message to avoid people ganging up or taking sides in an argument in which they are not directly involved. It’s best to contact the moderators on Facebook via private group message so we can discuss the issue with you. We promise that everything will be confidential and we won’t get mad at you if you have a complaint.
 
 We also have a [confidential form](http://hh.gd/feedback) if you would rather your incident not be tied to your identity.
+
+## About Hackathon Hackers
+
+Hackathon Hackers is a space where people learn together. 
+
+Members are aged from middle school to retirement, span across gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, come join us!
+
+#### Bird's-eye View
+
+Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything hackers care about. Think of it more as 'HH General' or  `#general` on Slack.
+
+There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. You can recognize them by the `HH` prefix in the group's name. Can't find the subgroup you're looking for or don't like what you find? [Start your own subgroup today!](#appendix-c-starting-a-subgroup).
 
 ## Laws of Robotics
 
