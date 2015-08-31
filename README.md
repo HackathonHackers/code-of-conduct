@@ -8,6 +8,12 @@ Hackathon Hackers (HH) is a community. Whenever you post or reply, there are oth
 
 This document aims to make HH a place for everyone to feel welcome. The rules, guidelines, and code of conduct that follow apply to all [HH subgroups](https://github.com/HackathonHackers/groups), although subgroups may also extend these to better serve their own community.
 
+## Rules and Guidelines
+
+Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please [send a pull request](https://help.github.com/articles/using-pull-requests/) to start the discussion.
+
+
+Our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
 ### Da Rules
 
 These are the rules/the things this space is not for. We tried to keep them short, with more indepth explanations in the appendix. Breaking any of these will result in your prompt removal from HH.
@@ -28,12 +34,6 @@ Members are aged from middle school to retirement, span across gender identities
 Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything hackers care about. Think of it more as 'HH General' or  `#general` on Slack.
 
 There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. You can recognize them by the `HH` prefix in the group's name. Can't find the subgroup you're looking for or don't like what you find? [Start your own subgroup today!](#appendix-c-starting-a-subgroup).
-
-## Rules and Guidelines
-
-Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please [send a pull request](https://help.github.com/articles/using-pull-requests/) to start the discussion.
-
-Our guiding principle can be summarized in one 90's-era sentence: *"Be excellent to each other."*
 
 ## Inclusivity Statement
 
