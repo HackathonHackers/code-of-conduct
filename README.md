@@ -58,13 +58,13 @@ However, if you have a post that falls in the above categories yet you feel stil
 
 If you have an issue with a member or [moderator](#moderators) please take it up with the moderators privately via Facebook message to avoid people ganging up or taking sides in an argument in which they are not directly involved. It’s best to contact the moderators on Facebook via private group message so we can discuss the issue with you. We promise that everything will be confidential and we won’t get mad at you if you have a complaint.
 
-We also have a confidential form on the sidebar if you're rather your incident not be tied to your identity.
+We also have a [confidential form](http://hh.gd/feedback) if you would rather your incident not be tied to your identity.
 
 ## Laws of Robotics
 
 There are certain commands moderators can enter as comments to manage threads. Presently these include:
 
-* `/thread` — This is our way of locking threads. From there on out, only moderators can post.
+* `/close` — This is our way of locking threads. From there on out, only moderators can post.
 * `/slow` — Only one post per minute per user on the thread is allowed.
 * `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
 
