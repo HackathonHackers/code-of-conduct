@@ -53,7 +53,7 @@ Hackathon Hackers is a space where people learn together.
 
 Members are aged from middle school to retirement, span across gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, come join us!
 
-#### Bird's-eye View
+#### Community Structure
 
 Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything hackers care about. Think of it more as 'HH General' or  `#general` on Slack.
 
