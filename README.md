@@ -59,7 +59,7 @@ Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Group
 
 There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. You can recognize them by the `HH` prefix in the group's name. Can't find the subgroup you're looking for or don't like what you find? [Start your own subgroup today!](#appendix-c-starting-a-subgroup).
 
-## Laws of Robotics
+### Laws of Robotics
 
 There are certain commands moderators can enter as comments to manage threads. Presently these include:
 
