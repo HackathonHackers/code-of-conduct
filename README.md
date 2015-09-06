@@ -32,13 +32,11 @@ We encourage everyone to participate and are committed to building a community f
 
 Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
-**Our community prioritizes marginalized people's safe existence in the community. We do not accept posts about:**
+**Our community prioritizes marginalized people's safe existence in the community. We will not tolerate posts encouraging:**
 
-* 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
-* Disagreements regarding reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you"
-* Refusal to explain or debate social justice concepts
-* Communicating in a 'tone' you don’t find congenial
-* Silencing discussion of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions (though these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit those guidelines)
+* 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia.'
+* Insensitivity towards strict boundary statements, such as "leave me alone," "go away," or "I'm not discussing this with you."
+* Racist, sexist, cissexist, or otherwise oppressive behavior or assumptions (though these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit those guidelines).
 
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
