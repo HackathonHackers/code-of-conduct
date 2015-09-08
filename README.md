@@ -34,9 +34,9 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 **Our community prioritizes marginalized people's safe existence in the community. We will not tolerate posts encouraging:**
 
-* 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia.'
-* Insensitivity towards strict boundary statements, such as "leave me alone," "go away," or "I'm not discussing this with you."
-* Racist, sexist, cissexist, or otherwise oppressive behavior or assumptions (though these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit those guidelines).
+* 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
+* Insensitivity toward boundary statements, such as "leave me alone," "go away," or "I'm not discussing this with you"
+* Racist, sexist, cissexist, or otherwise oppressive behaviors or assumptions (although these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit its guidelines)
 
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
@@ -57,8 +57,6 @@ Members are aged from middle school to retirement, span across gender identities
 Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything hackers care about. Think of it more as 'HH General' or  `#general` on Slack.
 
 There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. You can recognize them by the `HH` prefix in the group's name. Can't find the subgroup you're looking for or don't like what you find? [Start your own subgroup today!](#appendix-c-starting-a-subgroup).
-
-
 
 ## FAQs
 
