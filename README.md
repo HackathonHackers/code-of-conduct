@@ -18,7 +18,7 @@ Our guiding principle can be summarized in one 90's-era sentence: *"Be excellent
 
 These are the rules/the things this space is not for. We tried to keep them short, with more indepth explanations in the appendix. Breaking any of these will result in your prompt removal from HH.
 
-* No [harassment](#appendix-a-definitions) or personal attacks
+* No [harassment](#appendix-a-definitions) or personal attacks.
 * No spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts.
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
 * No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
