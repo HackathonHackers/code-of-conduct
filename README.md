@@ -34,6 +34,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 **Our community prioritizes marginalized people's safe existence in the community. We will not tolerate posts encouraging:**
 
+* 'Reverse'-isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
 * Insensitivity toward boundary statements, such as "leave me alone," "go away," or "I'm not discussing this with you"
 * Racist, sexist, cissexist, or otherwise oppressive behaviors or assumptions (although these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit its guidelines)
 
