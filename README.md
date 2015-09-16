@@ -23,6 +23,7 @@ These are the rules/the things this space is not for. We tried to keep them shor
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
 * No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
 * No illegal/pirated content, requests for it, or information regarding the distribution of it.
+* No personal attacks; they obstruct the discussion of ideas.
 
 ### Inclusivity Statement
 
