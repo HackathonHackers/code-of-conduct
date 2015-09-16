@@ -148,9 +148,9 @@ Any topic for a subgroup is acceptable as long as it provides value to the HH co
 
 There are certain commands moderators can enter as comments to manage threads. Presently these include:
 
-* `/close` — This is our way of locking threads. From there on out, only moderators can post.
+* `/close`, `/thread` or `/lock` — This is our way of locking threads. From there on out, only moderators can post.
 * `/slow` — Only one post per minute per user on the thread is allowed.
-* `/ama $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
+* `/ama $AMAer` or `/only $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
 
 These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future. Please contribute.
 
