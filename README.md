@@ -61,7 +61,7 @@ There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by
 
 > What should I do if I see someone violating the Code of Conduct?
 
-[Report the post](https://www.facebook.com/help/436113899837980) -- there's an option to report a thread if you click on the arrow in its top right hand corner. Then, a mod will look into it and take action. If the problem isn't specific to a thread, reach out to one of the [HH moderators](#moderators) directly.
+[Report the post.](https://www.facebook.com/help/436113899837980) You can report a thread by clicking on the arrow in its top right hand corner. Then, a mod will look into it and take action. If the problem isn't specific to a thread, reach out to one of the [HH moderators](#moderators) directly.
 
 > Why is this moderator ignoring me?
 
