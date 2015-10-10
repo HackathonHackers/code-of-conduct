@@ -26,7 +26,7 @@ These are the rules/the things this space is not for. We tried to keep them shor
 
 ### Inclusivity Statement
 
-**Hackathon Hackers is the all-inclusive hackathons group.**
+**Hackathon Hackers is the all-inclusive hackathons community.**
 
 We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. 
 
