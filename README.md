@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/HackathonHackers/code-of-conduct/master/ico.png" alt="Ico" height="32" valign="middle" /> code-of-conduct
 
-Welcome to [Hackathon Hackers](http://hh.gd)! This group is of, by, and for the amazing, still growing, community of hackers hackathons have built. We're glad you're here.
+Welcome to [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/)! This group is of, by, and for the amazing, still growing, community of hackers hackathons have built. We're glad you're here.
 
-If you want to recruit us, only post in [HH Job Listings](http://hh.gd/jobs). If you post job listings anywhere else, we will ban you forever.
+If you want to recruit us, only post in [HH Job Listings](https://www.facebook.com/groups/254805221385780/). If you post job listings anywhere else, we will ban you forever.
 
 Hackathon Hackers (HH) is a community. Whenever you post or reply, there are other people sitting behind the screen reading what you say. These other people have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll probably end up meeting a lot of them if you go to hackathons. Everyone in this group is a potential new friend—treat them that way.
 
@@ -21,7 +21,7 @@ These are the rules/the things this space is not for. We tried to keep them shor
 * No [harassment](#appendix-a-definitions), including personal attacks.
 * No spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts.
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
-* No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
+* No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](https://www.facebook.com/groups/hhfreestuff/).
 * No illegal/pirated content, requests for it, or information regarding the distribution of it.
 
 ### Inclusivity Statement
@@ -35,7 +35,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 **Our community prioritizes marginalized people's safe existence in the community. We will not tolerate posts encouraging:**
 
 * Insensitivity toward boundary statements, such as "leave me alone," "go away," or "I'm not discussing this with you"
-* Racist, sexist, cissexist, or otherwise oppressive behaviors or assumptions (although these discussions may be moved to [HH Constructive Debates](http://hh.gd/debate) if they better fit its guidelines)
+* Racist, sexist, cissexist, or otherwise oppressive behaviors or assumptions (although these discussions may be moved to [HH Constructive Debates](https://www.facebook.com/groups/hhconstructivedebates/) if they better fit its guidelines)
 
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
@@ -53,7 +53,7 @@ Members are aged from middle school to retirement, span across gender identities
 
 #### Community Structure
 
-Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](http://hh.gd) is the largest and most active. It's a catch-all for discussions about anything hackers care about. Think of it more as 'HH General' or  `#general` on Slack.
+Hackathon Hackers is composed of a loosely-connected ecosystem of Facebook Groups. The [main group of Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/) is the largest and most active. It's a catch-all for discussions about anything hackers care about. Think of it more as 'HH General' or  `#general` on Slack.
 
 There are over 50 topic-based subgroups of Hackathon Hackers. Each is managed by an independent team of volunteer moderators and must abide by this code of conduct. You can recognize them by the `HH` prefix in the group's name. Can't find the subgroup you're looking for or don't like what you find? [Start your own subgroup today!](#appendix-c-starting-a-subgroup)
 
@@ -81,7 +81,7 @@ Contributions are welcome on how to improve this code of conduct! Send us a pull
 
 ## Moderators
 
-The [main group of Hackathon Hackers](http://hh.gd) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger. All questions and concerns will be kept completely confidential. You can also submit [anonymous feedback](http://hh.gd/feedback).
+The [main group of Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger. All questions and concerns will be kept completely confidential. You can also submit [anonymous feedback](http://hh.gd/feedback).
 
 * [Alex Kern](https://www.facebook.com/kernvision)
 * [Ari Vaniderstine](https://www.facebook.com/itsariari)
@@ -152,7 +152,7 @@ There are certain commands moderators can enter as comments to manage threads. P
 * `/slow` — Only one post per minute per user on the thread is allowed.
 * `/ama $AMAer` or `/only $AMAer` — Our way of hosting Ask Me Anything's. Only the person doing the AMA will be able post on that thread. A separate thread will exist for questions, keeping the AMA answers tidy.
 
-These commands are implemented through [Hackbot](http://hh.gd/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future. Please contribute.
+These commands are implemented through [Hackbot](https://github.com/kern/hackbot), an extensible Facebook Group automoderator. We are looking to expand on these in the future. Please contribute.
 
 ## Appendix E: Coda
 
