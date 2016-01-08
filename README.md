@@ -83,15 +83,8 @@ Contributions are welcome on how to improve this code of conduct! Send us a pull
 
 The [main group of Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger. All questions and concerns will be kept completely confidential. You can also submit [anonymous feedback](http://hh.gd/feedback).
 
-* [Alex Kern](https://www.facebook.com/kernvision)
-* [Ari Vaniderstine](https://www.facebook.com/itsariari)
-* [Austin Feight](https://www.facebook.com/afeight)
 * [Cassidy Williams](https://www.facebook.com/superandomness)
 * [Dave Fontenot](https://www.facebook.com/davefontenot)
-* [Evadora de Zhengia](https://www.facebook.com/zhengia)
-* [Hallie Lomax](https://www.facebook.com/Wolfrun1)
-* [JB Rubinovitz](https://www.facebook.com/jbr1992)
-* [Rodney Folz](https://www.facebook.com/folz)
 
 Each [HH subgroup](https://github.com/HackathonHackers/groups) is run by an independent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
 
