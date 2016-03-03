@@ -23,6 +23,7 @@ These are the rules/the things this space is not for. We tried to keep them shor
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
 * No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](https://www.facebook.com/groups/hhfreestuff/).
 * No illegal/pirated content, requests for it, or information regarding the distribution of it.
+* No telling people they or their post is not welcome in Hackathon Hackers. If you think a post does not belong in HH, [report the post](https://www.facebook.com/help/436113899837980) or message an [admin](#moderators). If you make other people feel unwelcome in HH, we will remove you from the group.
 
 ### Inclusivity Statement
 
