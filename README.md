@@ -40,6 +40,14 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 However, if you have a post that falls in the above categories yet you feel still belongs in HH, you can message a [moderator](#moderators) to discuss it. We've had posts like these in the past that turned into constructive discussions with a bit of reframing. Talking about hard problems is, itself, hard.
 
+### [serious] tag
+To encourage a more serious discussion on your post, you may preface it with a [serious] tag.  Comments on posts with serious tags
+* Must be on topic
+* Must NOT give intentionally misleading advice
+* Must NOT be images/memes unless relevant or asked for in the original post
+* Must NOT be single words or phrases without explaination.
+
+
 ### Incident Reporting
 
 If you have an issue with a member or [moderator](#moderators) please take it up with the moderators privately via Facebook message to avoid people ganging up or taking sides in an argument in which they are not directly involved. It’s best to contact the moderators on Facebook via private group message so we can discuss the issue with you. We promise that everything will be confidential and we won’t get mad at you if you have a complaint.
