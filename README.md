@@ -92,16 +92,15 @@ Contributions are welcome on how to improve this code of conduct! Send us a pull
 
 The [main group of Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/) is moderated by a team of volunteers, listed below. If you ever have a question, comment, or concern about another user, a subgroup, or HH itself, please don't hesitate to reach out to one of them via Facebook Messenger. All questions and concerns will be kept completely confidential. You can also submit [anonymous feedback](http://hh.gd/feedback).
 
-* Cassidy Williams
-* Jon Gottfried
-* Megan Ruthven
-* JB Rubinovitz
-* Zahra Taiba
-* Joe Nash
-* Ben Cohen
-* Timotius Sitorus
-* Will Grayson
-* Dave Fontenot
+* [Cassidy Williams](https://www.facebook.com/cassidoo)
+* [Jon Gottfried](https://www.facebook.com/JonMarkGo)
+* [Megan Ruthven](https://www.facebook.com/maruthven)
+* [JB Rubinovitz](https://www.facebook.com/jbr1992)
+* [Zahra Taiba](https://www.facebook.com/zahra.taiba.1)
+* [Joe Nash](https://www.facebook.com/Truenash)
+* [Timotius Sitorus](https://www.facebook.com/timotius.sitorus)
+* [Will Grayson](https://www.facebook.com/thewillium)
+* [Dave Fontenot](https://www.facebook.com/davefontenot)
 
 Each [HH subgroup](https://github.com/HackathonHackers/groups) is run by an independent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
 
