@@ -137,7 +137,7 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 
 ## Appendix C: Starting a Subgroup
 
-Anyone can start an HH subgroup. To begin, create a Facebook group whose name begins with `HH`, add a description/cover photo, and invite your friends. Once you've satisfied one of the prerequisites below, complete the [subgroup application form](http://hh.gd/subapp). A [moderator](#moderators) will review it within a few days. If your subgroup is made official, its name and short URL will be added to the main group's sidebar.
+Anyone can start an HH subgroup. To begin, create a Facebook group whose name begins with `HH`, add a description/cover photo, and invite your friends. Once you've satisfied one of the prerequisites below, message a [moderator](#moderators) requesting to be added. If your subgroup is made official, its name and short URL will be added to the main group's sidebar.
 
 Any topic for a subgroup is acceptable as long as it provides value to the HH community. Many subgroups overlap with each other, so do not be afraid to submit applications for groups which might appear to be redundant.
 
