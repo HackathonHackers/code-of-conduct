@@ -125,7 +125,7 @@ This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/l
 * Stalking or following
 * Harassing photography or recording, including accessing private online activity for harassment purposes
 * Sustained disruption of discussion
-* Unwelcome sexual attention, including gratuitous or off-topic sexual images or behaviour
+* Unwelcome sexual attention and/or sexual imagery, including gratuitous or off-topic sexual images or behaviour
 * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 * Continued one-on-one communication after requests to cease
 * Deliberate "outing" of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
