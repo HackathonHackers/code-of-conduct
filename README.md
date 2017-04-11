@@ -46,7 +46,7 @@ To encourage a more serious discussion on your post, you may preface it with a [
 * Must be on topic
 * Must NOT give intentionally misleading advice
 * Must NOT be images/memes unless relevant or asked for in the original post
-* Must NOT be single words or phrases without explaination.
+* Must NOT be single words or phrases without explanation.
 
 
 ### Incident Reporting
